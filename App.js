@@ -7,7 +7,7 @@
           <StatusBar barStyle="dark-content" />
           <View style={styles.container}>
             <View style={styles.content}>
-              <Text style={styles.title}>Let's get you in</Text>
+              <Text style={styles.title}>Let's get you</Text>
               <Image
                 source={require('./assets/dating-app.png')} // <-- PERUBAHAN DI SINI
                 style={styles.illustration}
